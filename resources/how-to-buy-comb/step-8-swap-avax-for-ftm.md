@@ -10,7 +10,7 @@ Then click the Fantom Opera Network from the list of network options that show u
 
 ![](<../../.gitbook/assets/image (24).png>)
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)
 
 Once you have confirmed you have the required token amounts, go to [https://spookyswap.finance/swap](https://spookyswap.finance/swap) and swap AVAX for FTM
 

@@ -14,7 +14,7 @@ To do this, click the **Fantom Opera** box at the top of your Metamask screen:
 
 Then click the Avalanche Network from the list of network options that show up (note: you may not have as many options as shown in this example but you WILL have Avalanche if you completed Step 1 of this guide correctly):
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 You should see that you have 0 Avax now in your wallet and the top line shows **Avalanche Network**.\
 \

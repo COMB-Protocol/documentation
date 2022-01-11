@@ -6,7 +6,7 @@ A fantom faucet can be accessed by going to [https://www.mentasuave01-tools.com/
 
 ![](<../../.gitbook/assets/image (12).png>)
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 ![](<../../.gitbook/assets/image (9).png>)
 
