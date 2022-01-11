@@ -16,7 +16,7 @@ Once it asks for your wallet, go back to your Metamask and click the “Copy” 
 
 Paste your Metamask Wallet address and click **Submit**
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 If the faucet was successful, you will receive a message saying ‘**Bridge was successful**’
 

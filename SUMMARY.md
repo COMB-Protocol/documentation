@@ -33,9 +33,10 @@
   * [3.1 - What is NECTAR?](about/our-innovative-compounding-solution-with-nectar/3.1-what-is-nectar.md)
   * [3.2 - Why is there another token?](about/our-innovative-compounding-solution-with-nectar/3.2-why-is-there-another-token.md)
   * [3.3 - Can I change my NECT into COMB?](about/our-innovative-compounding-solution-with-nectar/3.3-can-i-change-my-nect-into-comb.md)
-  * [3.4 - Is there any tax when claiming NECT?](about/our-innovative-compounding-solution-with-nectar/3.4-is-there-any-tax-when-claiming-nect.md)
-  * [3.5 - How do I compound?](about/our-innovative-compounding-solution-with-nectar/3.5-how-do-i-compound.md)
-  * [3.6 - What does this have to do with progression?](about/our-innovative-compounding-solution-with-nectar/3.6-what-does-this-have-to-do-with-progression.md)
+  * [3.4 - Can i change my COMB into NECT](about/our-innovative-compounding-solution-with-nectar/3.4-can-i-change-my-comb-into-nect.md)
+  * [3.5 - Is there any tax when claiming NECT?](about/our-innovative-compounding-solution-with-nectar/3.5-is-there-any-tax-when-claiming-nect.md)
+  * [3.6 - How do I compound?](about/our-innovative-compounding-solution-with-nectar/3.6-how-do-i-compound.md)
+  * [3.7 - What does this have to do with progression?](about/our-innovative-compounding-solution-with-nectar/3.7-what-does-this-have-to-do-with-progression.md)
 * [Thank you.](about/thank-you..md)
 
 ## 📘 resources
