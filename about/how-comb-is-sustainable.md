@@ -11,7 +11,7 @@ The advertised APY is sustainable, as it is paid in $COMB. The more important qu
 
 Enable each node holder the ability to generate their own real node with a unique FANTOM network endpoint. This is a permanent feature and makes creating a node always have utility. We are working on systems that allow purchasing of below market value with stable coins or other selected assets for further price stability.
 
-Stabilize Sell Pressure by implementing a unique tax system, along with a completely unique compounding system utilizing a new token called $NECT \[link to NECT doc]
+Stabilize Sell Pressure by implementing a unique tax system, along with a completely unique compounding system utilizing a new token called $NECT [(CLICK HERE FOR $NECT INFO)](our-innovative-compounding-solution-with-nectar/)
 
 The main goal to set the foundations of comb in the starting months is to acquire enough funds in the treasury to purchase FANTOM Validator Node. This will allow for constant revenue, that can either be reinvested for larger returns, or used to build more of what is to come for comb.
 
