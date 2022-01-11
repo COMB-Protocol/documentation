@@ -1,6 +1,6 @@
-# 🚨 Welcome to the Bee Hive! (COMB Financial) - Under maintenance
+# 🚨 Welcome to the Bee Hive! (COMB Financial)
 
-## COMB Financial?
+## COMB Financial
 
 ### Access <mark style="color:yellow;">Sustainable</mark> lifetime rewards with <mark style="color:yellow;">COMB</mark>
 

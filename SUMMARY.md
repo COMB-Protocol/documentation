@@ -2,7 +2,7 @@
 
 ## 🧡 about
 
-* [🚨 Welcome to the Bee Hive! (COMB Financial) - Under maintenance](README.md)
+* [🚨 Welcome to the Bee Hive! (COMB Financial)](README.md)
 * [What is Comb and how does it work?](about/what-is-comb-and-how-does-it-work/README.md)
   * [1.1a - What is COMB?](about/what-is-comb-and-how-does-it-work/1.1a-what-is-comb/README.md)
     * [1.1b - FTM nodes](about/what-is-comb-and-how-does-it-work/1.1a-what-is-comb/1.1b-ftm-nodes.md)
@@ -27,6 +27,13 @@
   * [2.12 - What happens if I don't claim my rewards every time?](about/understanding-the-comb-nodes/2.12-what-happens-if-i-dont-claim-my-rewards-every-time.md)
   * [2.13 - Are there maintenance fees to run my COMB node? Is there a claim fees?](about/understanding-the-comb-nodes/2.13-are-there-maintenance-fees-to-run-my-comb-node-is-there-a-claim-fees.md)
 * [How COMB is sustainable](about/how-comb-is-sustainable.md)
+* [Our Innovative Compounding Solution with Nectar](about/our-innovative-compounding-solution-with-nectar/README.md)
+  * [3.1 - What is NECTAR?](about/our-innovative-compounding-solution-with-nectar/3.1-what-is-nectar.md)
+  * [3.2 - Why is there another token?](about/our-innovative-compounding-solution-with-nectar/3.2-why-is-there-another-token.md)
+  * [3.3 - Can I change my NECT into COMB?](about/our-innovative-compounding-solution-with-nectar/3.3-can-i-change-my-nect-into-comb.md)
+  * [3.4 - Is there any tax when claiming NECT?](about/our-innovative-compounding-solution-with-nectar/3.4-is-there-any-tax-when-claiming-nect.md)
+  * [3.5 - How do I compound?](about/our-innovative-compounding-solution-with-nectar/3.5-how-do-i-compound.md)
+  * [3.6 - What does this have to do with progression?](about/our-innovative-compounding-solution-with-nectar/3.6-what-does-this-have-to-do-with-progression.md)
 * [Thank you.](about/thank-you..md)
 
 ## 📘 resources

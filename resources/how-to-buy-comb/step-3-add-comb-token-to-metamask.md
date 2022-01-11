@@ -14,7 +14,7 @@ Contract address: 0xaE45a827625116d6C0C40B5D7359EcF68F8e9AFD \
 Token Symbol: COMB \
 Decimals: 18
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 When you see the Comb token showing as per the screen below, click the **Import Tokens** button
 
