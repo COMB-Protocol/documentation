@@ -26,6 +26,8 @@
   * [2.11 - How to create a node on ftmscan without using the DApp COMB?](about/understanding-the-comb-nodes/2.11-how-to-create-a-node-on-ftmscan-without-using-the-dapp-comb.md)
   * [2.12 - What happens if I don't claim my rewards every time?](about/understanding-the-comb-nodes/2.12-what-happens-if-i-dont-claim-my-rewards-every-time.md)
   * [2.13 - Are there maintenance fees to run my COMB node? Is there a claim fees?](about/understanding-the-comb-nodes/2.13-are-there-maintenance-fees-to-run-my-comb-node-is-there-a-claim-fees.md)
+  * [2.14 - What are endpoints used for?](about/understanding-the-comb-nodes/2.14-what-are-endpoints-used-for.md)
+  * [2.15 - How do I use my endpoint?](about/understanding-the-comb-nodes/2.15-how-do-i-use-my-endpoint.md)
 * [How COMB is sustainable](about/how-comb-is-sustainable.md)
 * [Our Innovative Compounding Solution with Nectar](about/our-innovative-compounding-solution-with-nectar/README.md)
   * [3.1 - What is NECTAR?](about/our-innovative-compounding-solution-with-nectar/3.1-what-is-nectar.md)
