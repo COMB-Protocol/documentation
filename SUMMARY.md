@@ -16,7 +16,7 @@
   * [2.1 - How much does a node cost?](about/understanding-the-comb-nodes/2.1-how-much-does-a-node-cost.md)
   * [2.2 - Can nodes be transferred from one wallet to another?](about/understanding-the-comb-nodes/2.2-can-nodes-be-transferred-from-one-wallet-to-another.md)
   * [2.3 - Is there a possibility to reduce the price of a COMB node?](about/understanding-the-comb-nodes/2.3-is-there-a-possibility-to-reduce-the-price-of-a-comb-node.md)
-  * [2.4 - Will you often change the cost to create a node? Will there be a notice?](about/understanding-the-comb-nodes/2.4-will-you-often-change-the-cost-to-create-a-node-will-there-be-a-notice.md)
+  * [2.4 - Will you change the cost to create a node? Will there be a notice?](about/understanding-the-comb-nodes/2.4-will-you-change-the-cost-to-create-a-node-will-there-be-a-notice.md)
   * [2.5 - Can I have as many nodes as I want?](about/understanding-the-comb-nodes/2.5-can-i-have-as-many-nodes-as-i-want.md)
   * [2.6 - What happens to the 9 COMB used to create a node?](about/understanding-the-comb-nodes/2.6-what-happens-to-the-9-comb-used-to-create-a-node.md)
   * [2.7 - How can I make sure that my COMB-node has been created?](about/understanding-the-comb-nodes/2.7-how-can-i-make-sure-that-my-comb-node-has-been-created.md)

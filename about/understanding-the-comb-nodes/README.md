@@ -14,8 +14,8 @@ This section covers the following topics to provide a deeper understanding of CO
 [2.3-is-there-a-possibility-to-reduce-the-price-of-a-comb-node.md](2.3-is-there-a-possibility-to-reduce-the-price-of-a-comb-node.md)
 {% endcontent-ref %}
 
-{% content-ref url="2.4-will-you-often-change-the-cost-to-create-a-node-will-there-be-a-notice.md" %}
-[2.4-will-you-often-change-the-cost-to-create-a-node-will-there-be-a-notice.md](2.4-will-you-often-change-the-cost-to-create-a-node-will-there-be-a-notice.md)
+{% content-ref url="2.4-will-you-change-the-cost-to-create-a-node-will-there-be-a-notice.md" %}
+[2.4-will-you-change-the-cost-to-create-a-node-will-there-be-a-notice.md](2.4-will-you-change-the-cost-to-create-a-node-will-there-be-a-notice.md)
 {% endcontent-ref %}
 
 {% content-ref url="2.5-can-i-have-as-many-nodes-as-i-want.md" %}
