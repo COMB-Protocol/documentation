@@ -10,6 +10,8 @@ Spiritswap **-** [**https://swap.spiritswap.finance/#/swap?outputCurrency=0xae45
 
 ### How much COMB does it cost to buy a node?
 
+3 COMB for Broughton Hive
+
 9 COMB for Top Bar
 
 30 COMB for Langsroth Hive
