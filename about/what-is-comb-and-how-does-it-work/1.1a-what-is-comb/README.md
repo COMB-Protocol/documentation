@@ -19,3 +19,5 @@ In addition, COMB has been designed to open the doors of DeFi to anyone. We aim 
 * A social platform Metaverse for the Fantom DeFi ecosystem (Planned)
 * Node holder governance
 
+_All yields and rates are subject to change according to the network and certain invested protocols our aim is to target sustainable rates and positively impact both the world and DeFi._
+
