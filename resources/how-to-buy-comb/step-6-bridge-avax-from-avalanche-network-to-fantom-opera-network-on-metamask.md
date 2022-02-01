@@ -14,13 +14,13 @@ Then select **Metamask** on **Connect Wallet** choices:
 
 Once you click Metamask on the previous screen, open your Metamask wallet and approve the connection by clicking Next as shown below:
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 On the SpookySwap window, Input the bridge information as follows (show in screenshot below):\
 &#x20;      • Select ‘Avalanche’ in the ‘From Chain’ and ‘Fantom’ in the ‘To Chain’. \
 &#x20;      • Type or select AVAX as the Token to Bridge \
 &#x20;      • Choose the amount of AVAX (usually choose the max allowed),
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (39) (1).png>)
 
 Once values are input, click **Bridge token**, and approve bridging in your wallet (on your Metamask screen).
