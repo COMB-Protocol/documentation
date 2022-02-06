@@ -37,6 +37,7 @@
   * [3.5 - Is there any tax when claiming NECT?](about/our-innovative-compounding-solution-with-nectar/3.5-is-there-any-tax-when-claiming-nect.md)
   * [3.6 - How do I compound?](about/our-innovative-compounding-solution-with-nectar/3.6-how-do-i-compound.md)
   * [3.7 - What does this have to do with progression?](about/our-innovative-compounding-solution-with-nectar/3.7-what-does-this-have-to-do-with-progression.md)
+  * [3.8 - Emergency Unwrap NECT](about/our-innovative-compounding-solution-with-nectar/3.8-emergency-unwrap-nect.md)
 * [Thank you.](about/thank-you..md)
 
 ## 📘 resources
