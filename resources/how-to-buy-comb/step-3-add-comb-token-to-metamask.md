@@ -6,7 +6,7 @@ Make sure your MetaMask is connected to the FTM network (previous step)
 
 Click on Import tokens:
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1).png>)
 
 Copy and paste the Contract address, symbol and decimals from the text below into the screen fields as shown on the screenshot and then click **Add Custom Token** \
 \
