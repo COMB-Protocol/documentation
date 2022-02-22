@@ -96,19 +96,21 @@ Yes
 
 ### How does the Tax system work?
 
-COMB has a dynamic tax system based on the amount of COMB you can claim. If you surpass a certain amount of COMB to claim you move to the next tax bracket. The amount needed can be found in the tax table and depends on what type of Hives you hold.
+COMB has a dynamic tax system based on the amount of COMB you can claim. If you surpass a certain amount of COMB to claim you move to the next tax bracket. The amount needed can be found in the tax table and depends on what type of Hives you hold.&#x20;
 
 From this we can derive the following numbers:&#x20;
 
-Each Broughton hive adds 0.15500403 COMB to the total needed amount for the 19% tax bracket and needs 0.24801147 to get into the 5% tax bracket&#x20;
+Each Broughton hive adds 0.18011403 COMB to the total needed amount for the 20% tax bracket and needs 0.34845147 to get into the 5% tax bracket&#x20;
 
-Each Top Bar hive adds 0.500013 COMB to the total needed amount for the 19% tax bracket and needs 0.800037 to get into the 5% tax bracket&#x20;
+Each Top Bar hive adds 0.581013 COMB to the total needed amount for the 20% tax bracket and needs 1.124037 to get into the 5% tax bracket&#x20;
 
-Each Langstroth hive adds 1.7500455 COMB to the total needed amount for the 19% tax bracket and needs 2.8001295 to get into the 5% tax bracket&#x20;
+Each Langstroth hive adds 2.0335455 COMB to the total needed amount for the 20% tax bracket and needs 3.9341295 to get into the 5% tax bracket&#x20;
 
-Each Warre hive adds 3.56009256 COMB to the total needed amount for the 19% tax bracket and needs 5.69626344 to get into the 5% tax bracket
+Each Warre hive adds 4.13681256 COMB to the total needed amount for the 20% tax bracket and needs 8.00314344 to get into the 5% tax bracket&#x20;
 
-If you happen to buy a Broughton at some point later on you take the 5.2002405 and add the amount needed for a Broughton and you will get 5.2002405 + 0.24801147 = 5.44825197 COMB needed for the 5% bracket.
+If you have two Top Bar and a Langstroth you would need (2x 1.124037 + 3.9341295) 6.1822035 COMB to get in the lowest bracket.&#x20;
+
+If you happen to buy a Broughton at some point later on you take the 6.1822035 and add the amount needed for a Broughton and you will get 6.1822035 + 0.34845147 = 6.53065497 COMB needed for the 5% bracket.&#x20;
 
 ❗️NOTE❗️: The tax is based on how much COMB you can claim so it does not matter how much or long each of your hives has produced as long as all rewards together are enough to be above the required amount.
 
