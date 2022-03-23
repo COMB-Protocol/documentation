@@ -4,7 +4,7 @@ At this point, you should now have a small amount of FTM and all of your AVAX sh
 \
 To confirm this, change your Metamask wallet back to the Fantom Network:
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29) (1).png>)
 
 Then click the Fantom Opera Network from the list of network options that show up (note: you may not have as many options as shown in this example but you WILL have Fantom Opera if you completed Step 2 of this guide correctly):
 
