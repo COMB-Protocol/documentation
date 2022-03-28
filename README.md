@@ -4,7 +4,9 @@
 
 ### Access <mark style="color:yellow;">Sustainable</mark> rewards with <mark style="color:yellow;">COMB</mark>
 
-#### _A protocol that brings the best yields in DeFi and combines them with FTM node integration. Made simple with a single token._
+![](.gitbook/assets/banner.PNG)
+
+#### _A protocol that brings the high and sustainable yields in DeFi and combines them with FTM node integration. Made simple with a single token._
 
 _Understand that these documents are still **work in progress.**_
 

@@ -18,7 +18,7 @@ Decimals: 18
 
 When you see the Comb token showing as per the screen below, click the **Import Tokens** button
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 If your COMB token has added successfully, you should now see it appearing in your wallet token list with a quantity of zero:
 

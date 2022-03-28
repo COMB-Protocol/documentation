@@ -21,6 +21,6 @@ On the SpookySwap window, Input the bridge information as follows (show in scree
 &#x20;      • Type or select AVAX as the Token to Bridge \
 &#x20;      • Choose the amount of AVAX (usually choose the max allowed),
 
-![](<../../.gitbook/assets/image (39) (1).png>)
+![](<../../.gitbook/assets/image (39) (1) (1).png>)
 
 Once values are input, click **Bridge token**, and approve bridging in your wallet (on your Metamask screen).
