@@ -7,7 +7,7 @@
 * [Understanding the COMB Ecosystem](about/understanding-the-comb-ecosystem.md)
 * [Understanding zCOMB](about/understanding-zcomb.md)
 * [Understanding COMB nodes](about/understanding-comb-nodes/README.md)
-  * [3.3 - Can I change my NECT into COMB?](about/understanding-comb-nodes/3.3-can-i-change-my-nect-into-comb.md)
+  * [Can I change my NECT into zCOMB?](about/understanding-comb-nodes/can-i-change-my-nect-into-zcomb.md)
 * [Thank you.](about/thank-you..md)
 
 ## 📘 resources

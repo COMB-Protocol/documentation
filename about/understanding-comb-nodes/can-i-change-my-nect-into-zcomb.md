@@ -1,0 +1,11 @@
+# Can I change my NECT into zCOMB?
+
+<mark style="color:orange;">NECT</mark> can be unwrapped into zCOMB at a 10% flat rate tax, with a minimum 2 week locking period. Please note: You will need to already have zCOMB locked in order to unwrap your NECT into zCOMB.&#x20;
+
+1. Go to [https://app.comb.financial/zcomb](https://app.comb.financial/zcomb)
+
+![](<../../.gitbook/assets/image (29).png>)
+
+2\. Open up a lock with any amount of COMB
+
+3\. Press the lock X $NECT into zCOMB
