@@ -12,6 +12,7 @@
 
 ## 📘 resources
 
+* [Contracts](resources/contracts.md)
 * [Frequently Asked Questions](resources/frequently-asked-questions/README.md)
   * [COMB FAQ](resources/frequently-asked-questions/comb-faq.md)
   * [zCOMB FAQ](resources/frequently-asked-questions/zcomb-faq.md)
