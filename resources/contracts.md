@@ -18,7 +18,7 @@
 | PodsManager:  | 0x0CDcbBf9Ae0341D904268F0a1373A67CE114c2B3 |
 | PodsHelper:   | 0x9fF0436D1F44a965A7E9a5Ed2d5C2AEFE93f6AdF |
 
-### Depositors:
+### Depositors
 
 | Contract Name      | Contract Address                           |
 | ------------------ | ------------------------------------------ |
