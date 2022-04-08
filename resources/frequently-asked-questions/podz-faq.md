@@ -50,5 +50,5 @@ Podz do not rely on Ponzinomics but instead realizes its rewards through the zCO
 
 ### How do I feed my POD?
 
-You feed your POD by depositing $COMB into it.
+You feed a pod by clicking the "Feed" button. This will automatically move COMB into the pod to keep it healthy.
 
