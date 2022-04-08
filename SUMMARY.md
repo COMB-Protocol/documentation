@@ -16,6 +16,7 @@
 * [Frequently Asked Questions](resources/frequently-asked-questions/README.md)
   * [COMB FAQ](resources/frequently-asked-questions/comb-faq.md)
   * [zCOMB FAQ](resources/frequently-asked-questions/zcomb-faq.md)
+  * [PODZ FAQ](resources/frequently-asked-questions/podz-faq.md)
 * [How to buy COMB](resources/how-to-buy-comb/README.md)
   * [Step 1: Add Avalanche Network to your MetaMask wallet](resources/how-to-buy-comb/step-1-add-avalanche-network-to-your-metamask-wallet.md)
   * [Step 2: Add Fantom Opera Network to your MetaMask wallet](resources/how-to-buy-comb/step-2-add-fantom-opera-network-to-your-metamask-wallet.md)
