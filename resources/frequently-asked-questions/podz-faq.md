@@ -38,7 +38,7 @@ Podz do not rely on Ponzinomics but instead realizes its rewards through the zCO
 
 ### What is the PODZ APR?
 
-40% - 200%
+40% - 200%. The APR is dynamic and subject to change according to the zCOMB infrastructure.
 
 ### What is the max amount of PODZ per wallet?
 
@@ -51,4 +51,10 @@ Podz do not rely on Ponzinomics but instead realizes its rewards through the zCO
 ### How do I feed my POD?
 
 You feed a pod by clicking the "Feed" button. This will automatically move COMB into the pod to keep it healthy.
+
+### How does the whitelist presale work?
+
+The whitelist **allows you to enter the pre-sale**, but does not guarantee a pod. If 20 of the 150 whitelisted users buys up 15 podz, then rest of the whitelisted members will have to participate in the public launch to purchase theirs.
+
+
 
