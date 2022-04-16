@@ -60,7 +60,7 @@ Podz do not rely on Ponzinomics but instead realizes its rewards through the zCO
 
 ### What is the maximum number of PODZ allowed to be created?
 
-2250 PODZ is the current cap.
+1500 PODZ is the current cap.
 
 ### How do I feed my POD?
 
