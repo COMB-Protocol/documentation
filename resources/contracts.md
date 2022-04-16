@@ -8,6 +8,7 @@
 | ------------------- | ------------------------------------------ | - |
 | $COMB Token Address | 0xae45a827625116d6c0c40b5d7359ecf68f8e9afd |   |
 | $NECT Token Address | 0xceddec9a3134a440e77c7dcad6f35fdf398a49fc |   |
+| PODZ NFT Address    | 0xbAc40dc5168D2f109dFAD164af438d6b9C078254 |   |
 
 ### PodsManagement
 

@@ -70,6 +70,10 @@ You feed a pod by clicking the "Feed" button. This will automatically move COMB 
 
 Out of the 10 $COMB tokens used to create a pod, 6 of the are locked into our zCOMB system, this lock generates rewards daily, those rewards are then sold for either $BTC, $ETH or $FTM and sent to your rewards.
 
+### When do PODZ pay out?
+
+Your first rewards will be distributed at the end of the next zCOMB epoch, then at the end of each epoch after that. Rewards are distributed daily.
+
 
 
 
