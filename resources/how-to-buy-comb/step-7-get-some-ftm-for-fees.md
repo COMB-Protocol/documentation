@@ -4,7 +4,7 @@ You will be transacting within the Fantom network for the remaining steps. All t
 
 A fantom faucet can be accessed by going to [https://www.mentasuave01-tools.com/](https://www.mentasuave01-tools.com) in your brower and following the steps below:
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 ![](<../../.gitbook/assets/image (27) (1).png>)
 
