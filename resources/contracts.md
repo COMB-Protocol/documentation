@@ -4,11 +4,12 @@
 
 ### Token Contracts
 
-| Contract Name       | Contract Address                           |   |
-| ------------------- | ------------------------------------------ | - |
-| $COMB Token Address | 0xae45a827625116d6c0c40b5d7359ecf68f8e9afd |   |
-| $NECT Token Address | 0xceddec9a3134a440e77c7dcad6f35fdf398a49fc |   |
-| PODZ NFT Address    | 0xbAc40dc5168D2f109dFAD164af438d6b9C078254 |   |
+| Contract Name           | Contract Address                           | Decimal |   |
+| ----------------------- | ------------------------------------------ | ------- | - |
+| $COMB Token Address     | 0xae45a827625116d6c0c40b5d7359ecf68f8e9afd | 18      |   |
+| $NECT Token Address     | 0xceddec9a3134a440e77c7dcad6f35fdf398a49fc | 18      |   |
+| BearishHive NFT Address | 0xF0f8F779F2510eD7f6869dC811D6fBd84b1D1045 | 0       |   |
+| PODZ NFT Address        | 0xbAc40dc5168D2f109dFAD164af438d6b9C078254 | 0       |   |
 
 ### PodsManagement
 
