@@ -52,6 +52,8 @@ Yes - [https://stakefantom.com/](https://stakefantom.com)
 
 ### How does the Tax system work?
 
+#### Non-Withered Hive Tax:
+
 COMB has a dynamic tax system based on the amount of COMB you can claim. If you surpass a certain amount of COMB to claim you move to the next tax bracket. The amount needed can be found in the tax table and depends on what type of Hives you hold.&#x20;
 
 From this we can derive the following numbers:&#x20;
@@ -69,6 +71,10 @@ If you have two Top Bar and a Langstroth you would need (2x 1.124037 + 3.9341295
 If you happen to buy a Broughton at some point later on you take the 6.1822035 and add the amount needed for a Broughton and you will get 6.1822035 + 0.34845147 = 6.53065497 COMB needed for the 10% bracket.&#x20;
 
 ❗️NOTE❗️: The tax is based on how much COMB you can claim so it does not matter how much or long each of your hives has produced as long as all rewards together are enough to be above the required amount.
+
+#### Withered Hive Tax
+
+Withered Hives have a static tax of 10%.
 
 ### What happens with the claim Tax?
 
@@ -128,4 +134,8 @@ When a large investors comes to us and request to conduct an OTC deal, either se
 1. Time - The time we want to lock in the market price for the deal to be conducted. This is important since we won't be utilizing the liquidity pool for the trade of assets.
 2. Date - The date the deal is to be conducted, which will always be within the boundaries of our agreements to ensure their isn't a large difference in the Time of market valued agreed, and the trade of assets conducted.
 3. Agreement - An agreement is conducted between investor and Comb that states if the Time of market value exceeds 5% more or less than the agree upon Time, the Time of market value will be changed to prevent buying/selling at a large discount.
+
+### What are the node rewards?
+
+![](<../../.gitbook/assets/image (14).png>)
 

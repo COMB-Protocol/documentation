@@ -10,7 +10,7 @@ Click **Connect Wallet** to connect the site to your wallet:
 
 Then select **Metamask** on **Connect Walle**t choices:
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (30) (1).png>)
 
 Once you click Metamask on the previous screen, open your Metamask wallet and approve the connection by clicking Next as shown below:
 

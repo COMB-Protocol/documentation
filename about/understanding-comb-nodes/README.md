@@ -10,5 +10,9 @@ COMB Nodes were a fundamental part of the early COMB ecosystem, nodes can no lon
 * Nodes are the easiest entry to zCOMB to gain revenue from the entire ecosystem.
 * Custome FTM RPC endpoints to use in Metamask to avoid FTM network congestion and speed up transactions.
 
+## Node Reward Table
+
+![](<../../.gitbook/assets/image (30).png>)
+
 
 
