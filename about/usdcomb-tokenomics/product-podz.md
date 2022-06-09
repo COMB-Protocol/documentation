@@ -28,8 +28,8 @@ Of note, Podz will require to be “fed” a small amount of $COMB periodically 
 
 See the below diagram for a schematic on the profit generation model of Podz:
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 zCOMB gets it’s rewards from the entire Comb Financial Ecosystem, as depicted in the following diagram:
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (27).png>)

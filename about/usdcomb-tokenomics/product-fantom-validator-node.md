@@ -10,7 +10,7 @@ The Fantom Network is a relatively young network and is highly undervalued in vi
 
 ## Fantom Validator Node Revenue Flow
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
 Rewards from the Fantom Validator Node are directed as per zCOMB votes, unless maintenance is required for the Validator Node.
 

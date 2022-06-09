@@ -26,4 +26,4 @@
 
 **Revenue-Sharing Vault:** zCOMB and Podz holders receive daily rewards from our Revenue-Sharing vault. Rewards are collected from multiple different revenue streams, namely the (1) Pools, (2) Yield Optimizers, (3) Fantom Validator Node, and (4) Marketplace. Future additional revenue streams include the (1) Metaverse, (2) P2E Game, (3) Bridge, and (4) Money Market. Currently, the rewards for **zCOMB are** **COMB, WFTM, BEETS, BOO, SPIRIT, AND SCREAM**, while the rewards for **Podz are BTC, ETH, and FTM.**
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (30).png>)

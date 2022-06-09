@@ -4,7 +4,7 @@ Comb Financial’s Yield Optimizers allow users to stake their LP tokens for rew
 
 See below for a schematic on the mechanics behind Comb Financial’s Yield Optimizers:
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (33).png>)
 
 ## Investor Suitability
 

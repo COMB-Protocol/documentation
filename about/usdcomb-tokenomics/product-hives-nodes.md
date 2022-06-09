@@ -24,7 +24,7 @@ Healthy hives emitted \~1076 $COMB per day at an average \~325% APR. Upon the re
 
 Taxes are imposed to fund development in line with the following rubric:
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 ## Current Hive Utility
 
@@ -52,4 +52,4 @@ Comb Financial Hives are suitable for investors who strongly believe in the futu
 
 Hives are fNFTs (Financial Non-Fungible Tokens) which can be purchased on the Comb Financial Marketplace.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (26).png>)
