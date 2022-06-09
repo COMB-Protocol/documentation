@@ -14,13 +14,13 @@ To do this, click the **Fantom Opera** box at the top of your Metamask screen:
 
 Then click the Avalanche Network from the list of network options that show up (note: you may not have as many options as shown in this example but you WILL have Avalanche if you completed Step 1 of this guide correctly):
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 You should see that you have 0 Avax now in your wallet and the top line shows **Avalanche Network**.\
 \
 Click the address of your Metamask wallet to copy it to your clipboard (this is the address you will send your Avax to when you withdraw from the exchange):
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 Paste your Metamask address into the ‘Wallet Address’ section of the exchange withdrawal screen by clicking the Paste option.\
 \
@@ -28,6 +28,6 @@ Make sure you select the Network setting as Avax C-Chain as shown below on a KuC
 \
 Select the Amount of Avax you want to withdraw, then proceed with withdrawal completing any authenticator steps that you exchange requires
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 
 Wait for your AVAX to appear in your wallet before continuing with the next step (can take 20-30 minutes depending on network conditions)

@@ -1,6 +1,6 @@
 # Understanding the COMB Ecosystem
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 The COMB ecosystem allows you to effortlessly and efficiently maximize the potential of your investments.&#x20;
 

@@ -8,7 +8,7 @@ Click on this line to display the current networks already setup for your wallet
 
 When the Network display appears, click the ‘Add Network’ option at the bottom:
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 A network setup screen appears for you to add the network information. \
 \

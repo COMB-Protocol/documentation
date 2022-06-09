@@ -36,7 +36,7 @@ COMB is a token that is used to enter the COMB Financial ecosystem of projects b
 
 We aim to further deploy more projects and protocols onto the Fantom network. At the moment we offer a range of farming services and plan on creating NFT projects, games, and DAOs under COMB.
 
-To learn more about who we are, head over to our medium articles: [https://blog.comb.financial/](https://blog.comb.financial)
+To learn more about who we are, head over to our medium articles: [https://blog.comb.financial/](https://blog.comb.financial/)
 
 ### Why did you start Comb?
 
@@ -48,7 +48,7 @@ COMB generates revenue through our services offered, these include yield optimiz
 
 ### Does COMB have a FTM validator node?
 
-Yes - [https://stakefantom.com/](https://stakefantom.com)
+Yes - [https://stakefantom.com/](https://stakefantom.com/)
 
 ### How does the Tax system work?
 
@@ -90,7 +90,7 @@ Discord integration is a huge step in becoming a true dao, by having our discord
 
 ### How do I verify my nodes to earn unique discord roles and vote in upcoming Hive holder events?
 
-1\) Go to [https://app.comb.financial/](https://app.comb.financial)&#x20;
+1\) Go to [https://app.comb.financial/](https://app.comb.financial/)&#x20;
 
 2\) Scroll to the bottom of the page & click "Sync with Discord"&#x20;
 

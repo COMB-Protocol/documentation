@@ -4,7 +4,7 @@
 
 1. Go to [https://app.comb.financial/zcomb](https://app.comb.financial/zcomb)
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (29) (1).png>)
 
 2\. Open up a lock with any amount of COMB
 
