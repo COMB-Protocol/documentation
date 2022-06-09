@@ -3,7 +3,7 @@
 ## 🧡 about
 
 * [🚨 Welcome to the Bee Hive! (COMB Financial)](README.md)
-* [Introduction to COMB](about/introduction-to-comb/README.md)
+* [Introduction to COMB](about/introduction-to-comb.md)
   * [Our Vision](about/introduction-to-comb/our-vision.md)
   * [Services and Revenue Streams](about/introduction-to-comb/services-and-revenue-streams.md)
   * [Path to Sustainability](about/introduction-to-comb/path-to-sustainability.md)

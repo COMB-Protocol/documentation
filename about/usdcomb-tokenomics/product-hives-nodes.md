@@ -32,7 +32,7 @@ The current Hives are useful for (1) generating $COMB, which can be cashed out t
 
 ## Future Hive Utility
 
-Hives will have further utility in the future with continuous developmental. Some utility will is expected in the P2E game expected in Q3 2022, as well as Comb Financials future Money Market.
+Hives will have further utility in the future with continuous developmental.
 
 ## Migration
 
