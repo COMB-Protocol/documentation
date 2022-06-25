@@ -1,6 +1,6 @@
 # Understanding the Yield Optimizer’s User Interface
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22) (1).png>)
 
 Clicking “Buy Token” brings you to the appropriate DEX for you to purchase your required constituent tokens – in this example, TOMB and FTM.
 
