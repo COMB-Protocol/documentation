@@ -24,6 +24,7 @@
   * [Product: zCOMB](about/usdcomb-tokenomics/product-zcomb/README.md)
     * [Understanding the zCOMB User Interface](about/usdcomb-tokenomics/product-zcomb/understanding-the-zcomb-user-interface.md)
   * [Product: Podz](about/usdcomb-tokenomics/product-podz.md)
+  * [Product: Capsules](about/usdcomb-tokenomics/product-capsules.md)
   * [Product: Marketplace](about/usdcomb-tokenomics/product-marketplace/README.md)
     * [Understanding the Marketplace User Interface](about/usdcomb-tokenomics/product-marketplace/understanding-the-marketplace-user-interface.md)
   * [Treasury](about/usdcomb-tokenomics/treasury.md)

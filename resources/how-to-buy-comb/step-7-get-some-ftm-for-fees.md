@@ -8,7 +8,7 @@ A fantom faucet can be accessed by going to [https://www.mentasuave01-tools.com/
 
 ![](<../../.gitbook/assets/image (27) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 Once it asks for your wallet, go back to your Metamask and click the “Copy” symbol to get your receiving address for the free FTM
 
