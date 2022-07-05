@@ -8,13 +8,9 @@ Fantom Opera Network – FTM
 
 Spiritswap **-** [**https://swap.spiritswap.finance/#/swap?outputCurrency=0xae45a827625116d6c0c40b5d7359ecf68f8e9afd**](https://swap.spiritswap.finance/#/swap?outputCurrency=0xae45a827625116d6c0c40b5d7359ecf68f8e9afd)****
 
-### Are you making NFT’s and if so will they have utility?
-
-Yes, we are going to be releasing NFT’s that hold utility.
-
 ### Is COMB a defi-as-a-service (DaaS) or a node-as-a-service (NaaS)?
 
-COMB is a hybrid of both DaaS and NaaS, we incorporate NaaS services into DaaS in a sustainable way.
+COMB is a hybrid of both DaaS and NaaS, we incorporate NaaS services into DaaS in a sustainable hybrid-model.
 
 ### Are Comb Nodes (Hives) real nodes?
 
@@ -22,7 +18,7 @@ Yes, these are real nodes. We are hosting and providing the infrastructure of re
 
 This type of node provides no monetary value to the users but has other benefits such as quicker transaction speed and lower gas fees because only you and anyone you give your unique Comb RPC code to will utilize your pathway on the fantom chain!&#x20;
 
-When you have multiple endpoints, it will automatically generate you a UNIVERSAL ENDPOINT. The difference between your single node endpoint and a UNIVERSAL ENDPOINT is that your universal endpoint will utilize all your node endpoints to find the quickest path to complete the transaction on the Fantom network.&#x20;
+When you have multiple endpoints, it will automatically generate you a universal endpoint. The difference between your single node endpoint and a universal endpoint is that your universal endpoint will utilize all your node endpoints to find the quickest path to complete the transaction on the Fantom network.&#x20;
 
 To learn more, read our medium article: [https://medium.com/@combfin/why-you-should-configure-your-metamask-node-provider-with-comb-e489c42c45e7](https://medium.com/@combfin/why-you-should-configure-your-metamask-node-provider-with-comb-e489c42c45e7)
 
@@ -34,9 +30,9 @@ Yes we are listed on both.
 
 COMB is a token that is used to enter the COMB Financial ecosystem of projects built on top of the Fantom network.
 
-We aim to further deploy more projects and protocols onto the Fantom network. At the moment we offer a range of farming services and plan on creating NFT projects, games, and DAOs under COMB.
+We aim to further deploy more projects and protocols onto the Fantom network. At the moment we offer a range of farming and yield optimizing services, and share protocol revenue with investors who lock up their COMB in the zCOMB revenue sharing vault. We will continue creating value for our investors by creating new products, offering new services and expanding in innovative ways. Some of our medium term plans include creating NFT projects, games, and DAOs under COMB.
 
-To learn more about who we are, head over to our medium articles: [https://blog.comb.financial/](https://blog.comb.financial/)
+To understand a bit more about who we are, head over to our medium articles: [https://blog.comb.financial/](https://blog.comb.financial/)
 
 ### Why did you start Comb?
 
@@ -46,35 +42,11 @@ The main reason we decided to start COMB was to initially create a node based se
 
 COMB generates revenue through our services offered, these include yield optimizers, farms, and staking in our FTM validator
 
+![](<../../.gitbook/assets/Untitled (8).png>)
+
 ### Does COMB have a FTM validator node?
 
 Yes - [https://stakefantom.com/](https://stakefantom.com/)
-
-### How does the Tax system work?
-
-#### Non-Withered Hive Tax:
-
-COMB has a dynamic tax system based on the amount of COMB you can claim. If you surpass a certain amount of COMB to claim you move to the next tax bracket. The amount needed can be found in the tax table and depends on what type of Hives you hold.&#x20;
-
-From this we can derive the following numbers:&#x20;
-
-Each Broughton hive adds 0.18011403 COMB to the total needed amount for the 20% tax bracket and needs 0.34845147 to get into the 10% tax bracket&#x20;
-
-Each Top Bar hive adds 0.581013 COMB to the total needed amount for the 20% tax bracket and needs 1.124037 to get into the 10% tax bracket&#x20;
-
-Each Langstroth hive adds 2.0335455 COMB to the total needed amount for the 20% tax bracket and needs 3.9341295 to get into the 10% tax bracket&#x20;
-
-Each Warre hive adds 4.13681256 COMB to the total needed amount for the 20% tax bracket and needs 8.00314344 to get into the 10% tax bracket&#x20;
-
-If you have two Top Bar and a Langstroth you would need (2x 1.124037 + 3.9341295) 6.1822035 COMB to get in the lowest bracket.&#x20;
-
-If you happen to buy a Broughton at some point later on you take the 6.1822035 and add the amount needed for a Broughton and you will get 6.1822035 + 0.34845147 = 6.53065497 COMB needed for the 10% bracket.&#x20;
-
-❗️NOTE❗️: The tax is based on how much COMB you can claim so it does not matter how much or long each of your hives has produced as long as all rewards together are enough to be above the required amount.
-
-#### Withered Hive Tax
-
-Withered Hives have a static tax of 10%.
 
 ### What happens with the claim Tax?
 
@@ -84,15 +56,15 @@ Withered Hives have a static tax of 10%.
 
 December 19th, 2021.
 
-### What is the purpose of verifying our nodes in discord #access-bot ?
+### What is the purpose of verifying our Comb products in discord #access-bot ?
 
-Discord integration is a huge step in becoming a true dao, by having our discord linked with our hives we can guarentee all people holding roles are node holders as well, so we don't have any "bad eggs" swinging votes when we do dao votes.
+Discord integration is a huge step in becoming a true dao, by having our discord linked with our hives we can guarantee all people holding roles are investors as well, so we don't have any "bad actors" swinging opinion or accessing confidential information when we have closed discussions.
 
 ### How do I verify my nodes to earn unique discord roles and vote in upcoming Hive holder events?
 
 1\) Go to [https://app.comb.financial/](https://app.comb.financial/)&#x20;
 
-2\) Scroll to the bottom of the page & click "Sync with Discord"&#x20;
+2\) Scroll to the top of the page & click the gear icon, then "Sync with Discord"&#x20;
 
 3\) Click Authorize&#x20;
 
@@ -102,8 +74,21 @@ Discord integration is a huge step in becoming a true dao, by having our discord
 
 ### Is there an audit? When will there be an audit?
 
-1. There isn't an audit yet.
-2. There will be an audit after the team considers the additions to the contract to be finished. There is no point doing an audit right now since the goals for Comb will change the contract going forward.&#x20;
+1. The Podz V1 contract has been audited by Solidity Finance and is accessible here: [https://solidity.finance/audits/BearishPods/](https://solidity.finance/audits/BearishPods/)
+2. The BTC, ETC, and FTM Podz were release on V1. AVAX Podz were V2, and Capsules are a V3. The core components to each of the Podz and Capsules are identical, with minor differences to minting fees, COMB deposited to zCOMB, and deposited LP.
+3. The zCOMB revenue sharing vault was forked from XXX and the contract has been renounced (Evidence?)
+4. The Yield Optimizer contract was forked from XXX.
+5. There will be a complete audit after the team considers the additions to the contract capabilities to be finished. It is expensive and highly cost abortive for the team to do a comprehensive audit prior to that.
+
+### Why does RugDoc rate comb financial as high risk, and warn users not to interact with you?
+
+RugDoc focuses on inspecting smart contract code in order to determine if backdoors are present for developers to steal funds after launching a project.&#x20;
+
+They also does not respect proxy contracts which makes it difficult for Comb to properly represent to the public. Rugdoc also doesn't do the due diligence of researching any deeper than the contract itself.
+
+The specific risk that RugDoc looks for is the risk of the smart contract being used to steal funds from their investors.
+
+Comb Financial is incorporated in a Washington LLC, with it's core members all being fully doxxed. This mitigates the specific risk which Rugdoc highlights on their website.
 
 ### Is the contract going to be viewable or open source?
 
@@ -127,8 +112,6 @@ The purpose is to allow larger investors the ability to invest, without shaking 
 
 ### How does Comb conduct their OTC deals?
 
-
-
 When a large investors comes to us and request to conduct an OTC deal, either selling or buying, we first have to discuss a few important details:
 
 1. Time - The time we want to lock in the market price for the deal to be conducted. This is important since we won't be utilizing the liquidity pool for the trade of assets.
@@ -139,3 +122,6 @@ When a large investors comes to us and request to conduct an OTC deal, either se
 
 ![](<../../.gitbook/assets/image (14).png>)
 
+### What is Comb's Hive Emission Rate?
+
+![](<../../.gitbook/assets/unknown (2).png>)

@@ -1,14 +1,18 @@
-# 🚨 Welcome to the Bee Hive! (COMB Financial)
+---
+cover: .gitbook/assets/banner (2).PNG
+coverY: 0
+---
 
-## COMB Financial
+# 🐝 Welcome to COMB Financial
 
-### Access <mark style="color:yellow;">Sustainable</mark> rewards with <mark style="color:yellow;">COMB</mark>
+### Who Is Comb Financial?
 
-![](.gitbook/assets/banner.PNG)
+We are a team of primarily doxxed individuals who are trying to make Decentralized Finance accessible to the common person. Anyone who is not externally doxxed, is internally doxxed within the team.
 
-#### _A protocol that brings the high and sustainable yields in DeFi and combines them with FTM node integration. Made simple with a single token._
+### What is our Value Proposition?
 
-_Understand that these documents are still **a work in progress.**_
+We create DeFi products which allow crypto newbies to have access to complex strategies in a simple manner. We aim to educate and help investors find success in their crypto journey.
 
-__
+In order to maximize user profits, the protocol fees towards the team have been reduced, in order to create a user-centric protocol.
 
+We operate on the Fantom network, but you can conveniently access our ecosystem through Rubic exchange or a network bridge.

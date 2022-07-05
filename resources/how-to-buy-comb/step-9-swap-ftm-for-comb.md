@@ -14,7 +14,7 @@ Then select **Metamask** on **Connect Walle**t choices:
 
 Once you click Metamask on the previous screen, open your Metamask wallet and approve the connection by clicking Next as shown below:
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (41) (1).png>)
 
 Select FTM on the left/top (token to be swapped) and COMB on the right/bottom (token you are swapping into) \
 \
