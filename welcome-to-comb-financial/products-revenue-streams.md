@@ -14,7 +14,7 @@ COMB Financial maintains a Fantom validator node (#93) with 500,000 FTM staked. 
 
 ### **Hives**
 
-COMB Financial has produced a limited number of hives which produce COMB at 6-hour intervals. Users can utilize a unique RPC-endpoint for access to the Fantom network, and will be able to enjoy further utility with future expansion. Hives are fNFTs and can be bought and sold on our marketplace.
+COMB Financial has produced a limited number of hives which produce COMB at 4-hour intervals. Users can utilize a unique RPC-endpoint for access to the Fantom network, and will be able to enjoy further utility with future expansion. Hives are fNFTs and can be bought and sold on our marketplace.
 
 ### **Podz**
 
