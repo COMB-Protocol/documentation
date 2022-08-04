@@ -12,11 +12,11 @@ Zapping allows you to change FTM, BTC, ETH or USDC into the correct composition 
 
 ### After Clicking On “Provide LP” for SpiritSwap Pools:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (2).png>)
 
 ### After Clicking On “Provide LP” for SpookySwap Pools:
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (2).png>)
 
 ### After Clicking On “Provide LP” for Beethoven-X Pools:
 

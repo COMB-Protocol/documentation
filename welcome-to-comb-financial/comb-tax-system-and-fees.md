@@ -22,11 +22,7 @@ Deposits and Withdrawals into the zCOMB, Podz, and Capsules are not taxed unless
 
 ## Hive Related Taxes
 
-Healthy hives emitted \~1076 $COMB per day at an average \~325% APR. Upon the reduction of hive / node rewards, the APR was decreased to 86% APR for hives that had achieved ROT (Return On Token). Withered hives are expected to emit \~285 $COMB per day at a steady 86% APR emission rate.
-
-![Healthy Hive Tax Rate](<../.gitbook/assets/Untitled (19).png>)
-
-![Withered Hive Tax Rate](<../.gitbook/assets/Untitled (2).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 ## Marketplace
 

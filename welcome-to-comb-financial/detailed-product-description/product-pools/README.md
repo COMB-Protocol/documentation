@@ -12,7 +12,7 @@ COMB Financial deposits the LP tokens directly into the origin pools in order to
 
 A diagram of how pools aid in Comb Financial’s sustainability is shown below. COMB Financial Pools emit 225 $COMB per day as of May 2022 and contribute to slight inflation. This number is an estimation given that 86400 blocks are emitted per day.
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 ## How To ZAP Into Comb Financial's Pools (The Easy Way)
 

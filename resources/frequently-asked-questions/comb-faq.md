@@ -120,7 +120,7 @@ When a large investors comes to us and request to conduct an OTC deal, either se
 
 ### What are the node rewards?
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 ### What is Comb's Hive Emission Rate?
 

@@ -12,7 +12,7 @@ Comb Financial thus pivoted away from the NaaS model in early February 2022 in o
 
 The original NaaS mechanics involved projects selling nodes, which would generate a continuous amount of their own token, allowing the investor to either compound them for more nodes, or sell them at market for a profit. See the below diagram for a schematic on the profit generation model of nodes, which is unsustainable:
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (19) (1).png>)
 
 Comb Financial’s Podz are akin to “Generation 2.0 Nodes”. The podz are fNFTs (Financial Non-Fungible Tokens), and emit rewards in tokens other than $COMB, thus relieving $COMB of a significant amount of selling pressure.
 

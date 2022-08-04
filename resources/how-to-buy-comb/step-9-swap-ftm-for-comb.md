@@ -6,7 +6,7 @@ In your website browser, go to [https://swap.spiritswap.finance/#/exchange/swap]
 \
 Click **Connect Wallet** to connect the site to your wallet:
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Then select **Metamask** on **Connect Walle**t choices:
 
@@ -22,4 +22,4 @@ Enter either the qty of COMB you want to receive, or the qty of FTM you want to 
 \
 Click the Swap Button then approve in MetaMask (NOTE: Leave a small amount of FTM in your wallet (1-2 FTM) to cover future fees)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (30).png>)

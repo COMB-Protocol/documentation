@@ -4,7 +4,7 @@ The top line of your Metamask shows the network you are connected to. \
 \
 Click on this line to display the current networks already setup for your wallet:
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 When the Network display appears, click the ‘Add Network’ option at the bottom:
 

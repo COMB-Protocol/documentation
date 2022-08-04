@@ -1,30 +1,22 @@
 # Product: Hives/Nodes
 
-## Original Hive Modality
+## Hive Modality
 
-Comb Financial’s Hives were it’s very first product. When launched, the hives had the following attributes:
-
-![](<../../.gitbook/assets/image (20).png>)
-
-## Current Hive Modality
-
-In order to curb the COMB emissions rate and implement a sustainable tokenomics model for COMB Financial, in May 2022, the number of nodes was capped in March 2022, and the APRs for hives which had reached their ROT were decreased to approximately 86% of the original purchase price in $COMB for each hive.
+APRs for hives are approximately 86% of the original purchase price in $COMB for each hive.
 
 There are no maintenance fees associated with keeping your Comb Financial Hives active.
 
-Hives which had paid out their initial cost in COMB and have completed their migration to become NFTs are termed Withered Hives, with the following characteristics:
-
-![\*The current cost of the hives is dependent on a seller’s price listed in the Comb Marketplace](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 ## Protocol Hive Considerations
 
-Healthy hives emitted \~1076 $COMB per day at an average \~325% APR. Upon the reduction of hive / node rewards, the APR was decreased to 86% APR for hives that had achieved ROT (Return On Token). Withered hives are expected to emit \~285 $COMB per day at this steady emission rate.
+Hives are expected to emit \~285 $COMB per day at a steady emission rate.
 
 ## Hive Taxes
 
 Taxes are imposed to fund development in line with the following rubric:
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 ## Current Hive Utility
 
@@ -46,7 +38,7 @@ Hive migration began in May 2022 and transformed Comb Financial’s Hives into f
 
 A diagram of how hives work is shown below. Hives have an inflationary effect on $COMB and will produce until 1,000,000 $COMB tokens are minted. As of May 2022, there are <120,000 $COMB tokens in existence with the expected forward emission rate being \~510 $COMB per day, or 15,300 $COMB per month and 186,150 $COMB per year. Hives are thus currently expected to continue emitting $COMB until late 2026.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 ## How To Buy A Hive
 

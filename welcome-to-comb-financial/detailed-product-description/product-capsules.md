@@ -50,7 +50,11 @@ Depositing $COMB will increase the value locked within your capsule, and thus in
 
 ## Deposit Asset
 
-Different capsules have different LP Assets backing them. These assets ensure that Comb Financial rewards remain sustainable. LP assets include fBEETs, and SCREAM-FTM LP. The assets will be locked up for the duration of the Capsule’s remaining lock.
+Different capsules have different LP Assets backing them. These assets ensure that Comb Financial rewards remain sustainable. LP assets include fBEETs, and SCREAM-FTM LP. The assets will be withdrawable.
+
+## Withdraw Asset
+
+This feature will allow an investor to withdraw the asset that is deposited into the capsule.
 
 ## Deposit $NECT
 
@@ -69,3 +73,9 @@ Capsules will be tradable on Comb’s NFT marketplace.
 Capsules can be transferred in the same way that Hives and Podz can. You can execute the transfer from the following url: [https://ftmscan.com/token/0xbac40dc5168d2f109dfad164af438d6b9c078254#writeProxyContract](https://ftmscan.com/token/0xbac40dc5168d2f109dfad164af438d6b9c078254#writeProxyContract)
 
 {% embed url="https://youtu.be/0OVuZk2wTjA" %}
+
+## Understanding the Capsules UI
+
+![](<../../.gitbook/assets/image (19).png>)
+
+![](../../.gitbook/assets/image.png)

@@ -14,7 +14,7 @@ Contract address: 0x511d35c52a3c244e7b8bd92c0c297755fbd89212 \
 Token Symbol: AVAX \
 Decimals: 18
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 When you see the Comb token showing as per the screen below, click the **Import Tokens** button
 
@@ -22,4 +22,4 @@ When you see the Comb token showing as per the screen below, click the **Import 
 
 If your Avax token has added successfully, you should now see it appearing in your wallet token list with a quantity of zero:
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)

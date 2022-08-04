@@ -34,7 +34,13 @@ Capsules are suitable for investors keen to gain greater exposure to the Comb Ec
 
 zCOMB is suitable for investors keen to gain greater exposure to the Comb Ecosystem, enjoy persistent rewards from Comb’s multiple revenue streams, and participate in governance action. Importantly, they are only suitable for investors who are able to lock up their $COMB tokens for 2 weeks to 2 years.
 
-### How To Bridge To The Fantom Network and Buy $COMB:
+## The Easiest Way To Get Started With Us On The Fantom Network
+
+Using the Rubic Widget on our dApp (1) purchase some $FTM for gas, and (2) purchase some $COMB for your investments. You can sell crypto on any chain supported by Rubic, such as Avalanche, Binance Smart Chain, and Polygon.
+
+![](<../.gitbook/assets/image (15).png>)
+
+### If you'd prefer to bridge your assets to the FTM network manually:
 
 {% embed url="https://youtu.be/IP04dyVDQkQ" %}
 

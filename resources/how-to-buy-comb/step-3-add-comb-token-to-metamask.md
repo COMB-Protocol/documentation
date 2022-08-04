@@ -22,4 +22,4 @@ When you see the Comb token showing as per the screen below, click the **Import 
 
 If your COMB token has added successfully, you should now see it appearing in your wallet token list with a quantity of zero:
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
