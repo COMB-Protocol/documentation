@@ -48,3 +48,5 @@
   * [Step 8: Swap AVAX for FTM](resources/how-to-buy-comb/step-8-swap-avax-for-ftm.md)
   * [Step 9: Swap FTM for COMB](resources/how-to-buy-comb/step-9-swap-ftm-for-comb.md)
   * [Congratulations!](resources/how-to-buy-comb/congratulations.md)
+* [Enter Utopia](resources/enter-utopia/README.md)
+  * [Utopia Homepage](resources/enter-utopia/utopia-homepage.md)
