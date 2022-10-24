@@ -50,3 +50,4 @@
   * [Congratulations!](resources/how-to-buy-comb/congratulations.md)
 * [Enter Utopia](resources/enter-utopia/README.md)
   * [Utopia Homepage](resources/enter-utopia/utopia-homepage.md)
+  * [Utopia Dashboard](resources/enter-utopia/utopia-dashboard.md)
