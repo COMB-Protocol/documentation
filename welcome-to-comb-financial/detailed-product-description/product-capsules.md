@@ -78,4 +78,4 @@ Capsules can be transferred in the same way that Hives and Podz can. You can exe
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)

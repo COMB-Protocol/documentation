@@ -1,8 +1,8 @@
 # Utopia Homepage
 
-Welcome to the home of Utopia! Access quick links to each component of Utopia, your Portfolio Balance, your customised watchlist and the latest COMB News and COMBLearn Articles.
+Welcome to the home of Utopia! Access quick links to each component of Utopia, your Portfolio Balance, your customized watch-list and the latest COMB News and COMBLearn Articles.
 
-<figure><img src="https://lh5.googleusercontent.com/mjFktH4dc6FXn1tVNCAULBzOf2y0ta5NdR1C4tCqL0ZHZWAk2-e3CAbqiwAoPfiBKqyWxX4s8OIGerg0oaA-6oBoponctAQc_FOXbk8VA7KG6VvoDXSvOC-et9yJgTvWbopEQYpuwzjxJgPA_56RT7hxiRhCBGLoXYnVTOQVqInHtXdY-e1VOAer3g" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Let’s get into it:
 
