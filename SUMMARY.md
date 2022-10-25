@@ -51,3 +51,4 @@
 * [Enter Utopia](resources/enter-utopia/README.md)
   * [Utopia Homepage](resources/enter-utopia/utopia-homepage.md)
   * [Utopia Dashboard](resources/enter-utopia/utopia-dashboard.md)
+  * [Explore Dashboard](resources/enter-utopia/explore-dashboard.md)
