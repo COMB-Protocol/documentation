@@ -4,7 +4,7 @@
 
 Access quick links to each component of Utopia, your Portfolio Balance, your customized watch-list and the latest COMB News and COMBLearn Articles.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Let’s get into it:
 
