@@ -53,3 +53,4 @@
   * [Utopia Dashboard](resources/enter-utopia/utopia-dashboard.md)
   * [Explore Dashboard](resources/enter-utopia/explore-dashboard.md)
   * [Trade Dashboard](resources/enter-utopia/trade-dashboard.md)
+  * [Alliance Dashboard](resources/enter-utopia/alliance-dashboard.md)
